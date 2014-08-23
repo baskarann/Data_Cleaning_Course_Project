@@ -1,7 +1,17 @@
 #Name of the Script -run_analysis.R
 #Require plyr and data.table package
 
+# The script - run_analysis.R take a list of files having data collected from the 
+# study of six activities wearing a Samsung smartphone that have an embedded 
+# accerometer and gyroscope. The script imports the data from the training and 
+# test datasets and merge them into one dataset containing the all the measurements data, 
+# mean, standard deviation, names of the activities for all the 30 subjects. 
+# From the merged dataset the average of all measurements mean and standard 
+# deviation per activities per subject were dertermined. The results were exported to
+# a text file called 'myTidyData.txt' into the current working directory.
 
+require(plyr)
+require(data.table)
 
 
 #Reading test files

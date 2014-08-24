@@ -7,147 +7,147 @@ The study involve 30 volunteers (age 19-48 yrs) performing six different activit
 
 List of columns and their description:
 
-1.  VolunteerID
+1.  VolunteerID  
 		  ID of the subjects participated in the study
-2.	Activity
+2.	Activity  
 		  Names of the activities that subjects performed during the study.                  There are six activities:WALKING,	WALKING_UPSTAIRS,WALKING_DOWNSTAIRS,SITTING,STANDING and LAYING.  
 
-3.	tBodyAccMeanX
-		Average of the Time domain signal-body acceleration mean in X axis per activity per subject.
+3.	tBodyAccMeanX  
+		Average of the Time domain signal-body acceleration mean in X axis per activity per subject.  
 		Range:0.2216 - 0.3015    
 
-4.	tBodyAccMeanY
-		Average of the Time domain signal-body acceleration mean in Y axis per activity per subject.
+4.	tBodyAccMeanY  
+		Average of the Time domain signal-body acceleration mean in Y axis per activity per subject.  
 		Range-0.040514 - -0.001308  	
 
-5.	tBodyAccMeanZ
-		Average of the Time domain signal-body acceleration mean in Z axis per activity per subject.
+5.	tBodyAccMeanZ  
+		Average of the Time domain signal-body acceleration mean in Z axis per activity per subject.  
 		Range:-0.15251 - -0.07538  
 
-6.	tBodyAccStdX
-		Average of the Time domain signal-body acceleration standard deviation in X axis per activity per subject.
+6.	tBodyAccStdX  
+		Average of the Time domain signal-body acceleration standard deviation in X axis per activity per subject.  
 		Range:-0.9961 - 0.6269  
 
-7.	tBodyAccStdY
-		Average of the Time domain signal-body acceleration standard deviation in y axis per activity per subject.
+7.	tBodyAccStdY  
+		Average of the Time domain signal-body acceleration standard deviation in y axis per activity per subject.  
 		Range: -0.99024 - 0.61694  
 
-8.	tBodyAccStdZ
-		Average of the Time domain signal-body acceleration	standard deviation in Z axis per activity per	subject.
+8.	tBodyAccStdZ  
+		Average of the Time domain signal-body acceleration	standard deviation in Z axis per activity per	subject.  
 		Range: -0.9877 - 0.609  
 
-9.	tGravityAccMeanX
-		Average of the Time domain signal-Gravity acceleration mean in X axis per activity per subject.
+9.	tGravityAccMeanX  
+		Average of the Time domain signal-Gravity acceleration mean in X axis per activity per subject.  
 		Range: -0.6800 - 0.9745  
 
-10.	tGravityAccMeanY
-		Average of the Time domain signal-Gravity acceleration mean in Y axis per activity per subject.
+10.	tGravityAccMeanY  
+		Average of the Time domain signal-Gravity acceleration mean in Y axis per activity per subject.  
 		Range: -0.47989 - 0.95659    
 
-11.	tGravityAccMeanZ
-		Average of the Time domain signal-Gravity acceleration mean in Z axis per activity per subject.
+11.	tGravityAccMeanZ  
+		Average of the Time domain signal-Gravity acceleration mean in Z axis per activity per subject.  
 		Range: -0.49509 - 0.95787  
 
-12.	tGravityAccStdX
-		Average of the Time domain signal-Gravity acceleration standard deviation in X axis per	activity per subject.
+12.	tGravityAccStdX  
+		Average of the Time domain signal-Gravity acceleration standard deviation in X axis per	activity per subject.  
 		Range:  -0.9968 - -0.8296    
 
-13.	tGravityAccStdY
-		Average of the Time domain signal-Gravity acceleration standard deviation in Y axis per activity per subject.
+13.	tGravityAccStdY  
+		Average of the Time domain signal-Gravity acceleration standard deviation in Y axis per activity per subject.  
 		Range: -0.9942 - -0.6436        
 
-14.	tGravityAccStdZ
-		Average of the Time domain signal-Gravity acceleration standard deviation in Z axis per activity per subject.
+14.	tGravityAccStdZ  
+		Average of the Time domain signal-Gravity acceleration standard deviation in Z axis per activity per subject.  
 		Range: -0.9910 - -0.6102  
 
-15.	tBodyAccJerkMeanX
-		Average of the Time domain signal-Body Acceleration Jerk Signal mean in X axis per activity per subject.
+15.	tBodyAccJerkMeanX  
+		Average of the Time domain signal-Body Acceleration Jerk Signal mean in X axis per activity per subject.  
 		Range: 0.04269 - 0.13019  
 
-16.	tBodyAccJerkMeanY
-		Average of the Time domain signal-Body Acceleration	Jerk Signal mean in Y axis per activity per subject.
+16.	tBodyAccJerkMeanY  
+		Average of the Time domain signal-Body Acceleration	Jerk Signal mean in Y axis per activity per subject.  
 		Range: -0.0386872 - 0.0568186  
 
-17.	tBodyAccJerkMeanZ
-		Average of the Time domain signal-Body Acceleration Jerk Signal mean in Z axis per activity per subject.
+17.	tBodyAccJerkMeanZ  
+		Average of the Time domain signal-Body Acceleration Jerk Signal mean in Z axis per activity per subject.  
 		Range: -0.067458 - 0.038053        
 
 
-18.	tBodyAccJerkStdX
-		Average of the Time domain signal-Body Acceleration Jerk Signal standard deviation in X axis per activity	per subject.
+18.	tBodyAccJerkStdX  
+		Average of the Time domain signal-Body Acceleration Jerk Signal standard deviation in X axis per activity	per subject.  
 		Range: -0.9946 - 0.5443  
 
-19.	tBodyAccJerkStdY
-		Average of the Time domain signal-Body Acceleration Jerk Signal standard deviation in Y axis per activity per subject.
+19.	tBodyAccJerkStdY  
+		Average of the Time domain signal-Body Acceleration Jerk Signal standard deviation in Y axis per activity per subject.  
 		Range: -0.9895 - 0.3553  
 
-20.	tBodyAccJerkStdZ
-		Average of the Time domain signal-Body Acceleration Jerk Signal standard deviation in Z axis per activity per subject.
+20.	tBodyAccJerkStdZ  
+		Average of the Time domain signal-Body Acceleration Jerk Signal standard deviation in Z axis per activity per subject.  
 		Range: -0.99329- 0.03102    
 
-21.	tBodyGyroMeanX
-    Average of the Time domain signal-Body Angular velocity mean in X axis per activity  per subject.
+21.	tBodyGyroMeanX  
+    Average of the Time domain signal-Body Angular velocity mean in X axis per activity  per subject.  
     Range: -0.20578- 0.1927  
 
-22.	tBodyGyroMeanY
-    Average of the Time domain signal-Body Angular velocity mean in Y axis per activity  per subject.
+22.	tBodyGyroMeanY  
+    Average of the Time domain signal-Body Angular velocity mean in Y axis per activity  per subject.  
      Range: -0.20421- 0.02747  
      
-23.	tBodyGyroMeanZ
-    Average of the Time domain signal-Body Angular velocity mean in Z axis per activity  per subject.
+23.	tBodyGyroMeanZ  
+    Average of the Time domain signal-Body Angular velocity mean in Z axis per activity  per subject.  
     Range: -0.07245- 0.1791  
 
-24.	tBodyGyroStdX
-Average of the Time domain signal-Body Angular velocity standard deviation in X axis per activity  per subject.
+24.	tBodyGyroStdX  
+Average of the Time domain signal-Body Angular velocity standard deviation in X axis per activity  per subject.  
     Range: -0.9943- 0.2677  
     
-25.	tBodyGyroStdY
-Average of the Time domain signal-Body Angular velocity standard deviation in Y axis per activity  per subject.
+25.	tBodyGyroStdY  
+Average of the Time domain signal-Body Angular velocity standard deviation in Y axis per activity  per subject.  
     Range: -0.9942- 0.4765  
     
-26.	tBodyGyroStdZ
-Average of the Time domain signal-Body Angular velocity standard deviation in Z axis per activity  per subject.
+26.	tBodyGyroStdZ  
+Average of the Time domain signal-Body Angular velocity standard deviation in Z axis per activity  per subject.  
     Range: -0.9855- 0.5649  
     
-27.	tBodyGyroJerkMeanX
-    Average of the Time domain signal-Body Angular velocity Jerk signal mean in X axis per activity  per subject.
+27.	tBodyGyroJerkMeanX  
+    Average of the Time domain signal-Body Angular velocity Jerk signal mean in X axis per activity  per subject.  
     Range:  -0.15721 - -0.02209   
 
 
-28.	tBodyGyroJerkMeanY
-    Average of the Time domain signal-Body Angular velocity Jerk signal mean in Y axis per activity  per subject.
+28.	tBodyGyroJerkMeanY  
+    Average of the Time domain signal-Body Angular velocity Jerk signal mean in Y axis per activity  per subject.  
     Range:  -0.07681 - -0.0132 
 
-29.	tBodyGyroJerkMeanZ
-    Average of the Time domain signal-Body Angular velocity Jerk signal mean in Z axis per activity  per subject.
+29.	tBodyGyroJerkMeanZ  
+    Average of the Time domain signal-Body Angular velocity Jerk signal mean in Z axis per activity  per subject.  
     Range: -0.0925- -0.006941     
 
-30.	tBodyGyroJerkStdX
-    Average of the Time domain signal-Body Angular velocity Jerk signal standard deviation in X axis per activity  per subject.
+30.	tBodyGyroJerkStdX  
+    Average of the Time domain signal-Body Angular velocity Jerk signal standard deviation in X axis per activity  per subject.  
     Range: -0.9965 - 0.1791    
 
-31.	tBodyGyroJerkStdY
-    Average of the Time domain signal-Body Angular velocity Jerk signal standard deviation in Y axis per activity  per subject.
+31.	tBodyGyroJerkStdY  
+    Average of the Time domain signal-Body Angular velocity Jerk signal standard deviation in Y axis per activity  per subject.  
     Range: -0.9971 - 0.2959  
 
-32.	tBodyGyroJerkStdZ
-    Average of the Time domain signal-Body Angular velocity Jerk signal standard deviation in Z axis per activity  per subject.
+32.	tBodyGyroJerkStdZ  
+    Average of the Time domain signal-Body Angular velocity Jerk signal standard deviation in Z axis per activity  per subject.  
     Range: -0.9954 - 0.1932  
 
-33.	tBodyAccMagMean
-    Average of the Time domain signal-magnitude of body acceleration mean per activity  per subject.
+33.	tBodyAccMagMean  
+    Average of the Time domain signal-magnitude of body acceleration mean per activity  per subject.  
     Range: -0.9865- 0.6446  
 
-34.	tBodyAccMagStd
-    Average of the Time domain signal-magnitude of body acceleration standard deviation per activity  per subject.
+34.	tBodyAccMagStd  
+    Average of the Time domain signal-magnitude of body acceleration standard deviation per activity  per subject.  
     Range: -0.9865- 0.4284    
     
-35.	tGravityAccMagMean
-    Average of the Time domain signal-magnitude of gravity acceleration mean per activity  per subject.
+35.	tGravityAccMagMean  
+    Average of the Time domain signal-magnitude of gravity acceleration mean per activity  per subject.  
     Range:-0.9865- 0.6446  
 
-36.	tGravityAccMagStd
-    Average of the Time domain signal-magnitude of gravity acceleration standard deviation per activity  per subject.
+36.	tGravityAccMagStd  
+    Average of the Time domain signal-magnitude of gravity acceleration standard deviation per activity  per subject.  
     Range: -0.9865- 0.4284  
     
 37.	tBodyAccJerkMagMean
